@@ -1,21 +1,36 @@
-# 💫 About Me:
-Hi 👋, I'm Ashiq<br>🚀 About Me<br>🎓 Computer Science Student<br>💻 Focused on Java, Data Structures & Algorithms<br>⚙️ Backend Development Enthusiast<br>🌱 Currently learning Spring Boot, System Design, and Database Design<br>🎯 Goal: Become a skilled Full-Stack Developer with strong Backend expertise<br>📚 Consistently practicing problem-solving and interview preparation
+HAK Ashiq M.
+Backend-Focused Full-Stack Developer
+I build web applications with Java, Spring Boot, React, and MySQL. My current focus is backend engineering: designing REST APIs, working with relational databases, and strengthening the fundamentals needed to build reliable applications.
+- 🎓 B.Tech Information Technology student
+- 🧩 Solved 250+ problems on LeetCode and continue practicing DSA
+- 🌱 Currently deepening my knowledge of Spring Boot, database design, and application architecture
+- 🎯 Interested in backend and full-stack software engineering opportunities
+Featured Projects
+InterviewIQ — AI Mock Interview Platform
+An interview-practice platform with AI-assisted mock interviews and resume feedback.
+Technologies: Java, Spring Boot, React, MySQL, FastAPI, Python
+RentTech — Equipment Rental Marketplace
+A peer-to-peer rental marketplace concept for technology equipment, with separate frontend and backend applications.
+Technologies: Java, Spring Boot, React, MySQL
+ReachInBox — Email Scheduler
+A full-stack email scheduling project exploring background jobs, delayed execution, rate limiting, and delivery tracking.
+Technologies: React, Node.js, TypeScript, Redis, BullMQ, PostgreSQL
+Portfolio Website
+My personal portfolio and project showcase.
+Live: hakashiq.github.io/Portfolio
+Skills
+Category	Technologies
+Languages	Java, JavaScript, SQL, Python (basics)
+Backend	Spring Boot, REST APIs, Spring Data JPA
+Frontend	React, HTML, CSS
+Databases	MySQL, PostgreSQL, MongoDB
+Tools	Git, GitHub, Maven, Postman, IntelliJ IDEA
 
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/lil__ashiq) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/hak-ashiq) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/hakashiq) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:thakashiq@gmail.com) 
-
-# 💻 Tech Stack:
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=Hakashiq&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://streak-stats.demolab.com/?user=Hakashiq&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=Hakashiq&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Hakashiq&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
----
-[![](https://komarev.com/ghpvc/?username=Hakashiq&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+Problem Solving
+I practice data structures and algorithms consistently to improve my problem-solving approach and prepare for software engineering interviews.
+Let's Connect
+- LinkedIn: hak-ashiq
+- Email: thakashiq@gmail.com
+- Portfolio: hakashiq.github.io/Portfolio
+Learning through building. Improving through practice.
